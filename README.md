@@ -6,7 +6,7 @@ An SPA being built using Laravel8 API backend + VueJS frontend and MySQL DB -all
 - [x] Database model, migrations, factories, seeding Done.
 - [x] Laravel 8 API Done.
 - [x] Laravel 8 API tested using postman. Done.
-- [ ] API documentation to be done.
+- [x] API documentation to be done.
 - [ ] VueJS SPA to be done.
 - [ ] DockerHub repo to be done.
 - [ ] AWS hosting of Docker containers to be done.
