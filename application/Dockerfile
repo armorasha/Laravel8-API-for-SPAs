@@ -1,5 +1,7 @@
 # FROM php:7.1.8-apache
 FROM php:7.3.0-apache
+RUN echo "ServerName localhost" >> /etc/apache2/apache2.conf
+
 
 RUN a2enmod rewrite
 
