@@ -1,5 +1,5 @@
-# Laravel 8 API + VueJS SPA on Docker
-An SPA being built using Laravel8 API backend + VueJS frontend and MySQL DB -all running on Docker
+# Laravel 8 API on Docker suitable for any SPAs
+An API built using Laravel8 backend and MySQL DB -all running on Docker
 
 ## Project Progress
 - [x] Docker based dev env Done.
